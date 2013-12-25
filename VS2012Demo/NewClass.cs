@@ -8,5 +8,6 @@ namespace VS2012Demo
 {
     class NewClass
     {
+        //Changes 
     }
 }
