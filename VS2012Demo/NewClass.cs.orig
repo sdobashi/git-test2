@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace VS2012Demo
+{
+    class NewClass
+    {
+<<<<<<< Updated upstream
+        //Changes 
+=======
+>>>>>>> Stashed changes
+        //Changes to the NewClass
+        //Changes after saving but before Commit.
+        //I don't get the detail about Git yet.
+    }
+}
