@@ -13,6 +13,9 @@ namespace VS2012Demo
             //Changes on the Main Branch from VS2012
             //This is a change from Visual Studio
             //This is a good 
+            //Change added
+            //This is another change
+            //Connect GitHub
         }
     }
 }
