@@ -11,6 +11,8 @@ namespace VS2012Demo
         static void Main(string[] args)
         {
             //Changes on the Main Branch from VS2012
+            //This is a change from Visual Studio
+            //This is a good 
         }
     }
 }
